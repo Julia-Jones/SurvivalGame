@@ -1,0 +1,76 @@
+<screens>
+	<screen1>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+		<row>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> grass.jpg </column>
+			<column> water.jpg </column>
+			<column> water.jpg </column>
+			<column> grass.jpg </column>
+		</row>
+	</screen1>
+</screens>
